@@ -1,4 +1,4 @@
-## How to run the code
+## Follow the code
 
 In the working directory, enter:
 ```
